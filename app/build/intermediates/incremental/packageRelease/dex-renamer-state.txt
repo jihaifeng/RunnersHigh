@@ -1,0 +1,4 @@
+#Sat May 27 13:47:38 CST 2017
+base.0=D\:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
