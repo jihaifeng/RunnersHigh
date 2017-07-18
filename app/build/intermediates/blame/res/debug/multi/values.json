@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
+                    "endColumn": 40,
+                    "endOffset": 91
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 108,
-                        "endColumn": 48,
-                        "endOffset": 152
+                        "startOffset": 111,
+                        "endColumn": 40,
+                        "endOffset": 147
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 104,
+                    "startOffset": 96,
                     "endColumn": 52,
-                    "endOffset": 152
+                    "endOffset": 144
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endColumn": 52,
-                        "endOffset": 103
+                        "endOffset": 105
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 157,
+                    "startOffset": 149,
                     "endColumn": 71,
-                    "endOffset": 224
+                    "endOffset": 216
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
-                        "startOffset": 636,
+                        "startOffset": 640,
                         "endColumn": 68,
-                        "endOffset": 703
+                        "endOffset": 707
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 229,
+                    "startOffset": 221,
                     "endColumn": 65,
-                    "endOffset": 290
+                    "endOffset": 282
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
-                        "startOffset": 454,
+                        "startOffset": 455,
                         "endColumn": 62,
-                        "endOffset": 515
+                        "endOffset": 516
                     }
                 }
             },
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 295,
+                    "startOffset": 287,
                     "endColumn": 67,
-                    "endOffset": 358
+                    "endOffset": 350
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 363,
+                    "startOffset": 355,
                     "endColumn": 58,
-                    "endOffset": 417
+                    "endOffset": 409
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,
-                        "startOffset": 517,
+                        "startOffset": 519,
                         "endColumn": 55,
-                        "endOffset": 571
+                        "endOffset": 573
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 422,
+                    "startOffset": 414,
                     "endColumn": 63,
-                    "endOffset": 481
+                    "endOffset": 473
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
-                        "startOffset": 240,
+                        "startOffset": 238,
                         "endColumn": 60,
-                        "endOffset": 299
+                        "endOffset": 297
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 486,
+                    "startOffset": 478,
                     "endColumn": 90,
-                    "endOffset": 572
+                    "endOffset": 564
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
-                        "startOffset": 301,
+                        "startOffset": 300,
                         "endColumn": 87,
-                        "endOffset": 387
+                        "endOffset": 386
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 577,
+                    "startOffset": 569,
                     "endColumn": 71,
-                    "endOffset": 644
+                    "endOffset": 636
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
-                        "startOffset": 762,
+                        "startOffset": 768,
                         "endColumn": 68,
-                        "endOffset": 829
+                        "endOffset": 835
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 649,
+                    "startOffset": 641,
                     "endColumn": 73,
-                    "endOffset": 718
+                    "endOffset": 710
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 1,
-                        "startOffset": 831,
+                        "startOffset": 838,
                         "endColumn": 70,
-                        "endOffset": 900
+                        "endOffset": 907
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 723,
+                    "startOffset": 715,
                     "endColumn": 56,
-                    "endOffset": 775
+                    "endOffset": 767
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 1,
-                        "startOffset": 902,
+                        "startOffset": 910,
                         "endColumn": 53,
-                        "endOffset": 954
+                        "endOffset": 962
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 780,
+                    "startOffset": 772,
                     "endColumn": 65,
-                    "endOffset": 841
+                    "endOffset": 833
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
-                        "startOffset": 573,
+                        "startOffset": 576,
                         "endColumn": 62,
-                        "endOffset": 634
+                        "endOffset": 637
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 846,
+                    "startOffset": 838,
                     "endColumn": 47,
-                    "endOffset": 889
+                    "endOffset": 881
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
-                        "startOffset": 195,
+                        "startOffset": 192,
                         "endColumn": 44,
-                        "endOffset": 238
+                        "endOffset": 235
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 894,
+                    "startOffset": 886,
                     "endColumn": 330,
-                    "endOffset": 1220
+                    "endOffset": 1212
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 1,
-                        "startOffset": 956,
+                        "startOffset": 965,
                         "endColumn": 327,
-                        "endOffset": 1282
+                        "endOffset": 1291
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1225,
+                    "startOffset": 1217,
                     "endColumn": 43,
-                    "endOffset": 1264
+                    "endOffset": 1256
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
-                        "startOffset": 154,
+                        "startOffset": 150,
                         "endColumn": 40,
-                        "endOffset": 193
+                        "endOffset": 189
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1269,
+                    "startOffset": 1261,
                     "endColumn": 59,
-                    "endOffset": 1324
+                    "endOffset": 1316
                 },
                 "from": {
-                    "file": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
-                        "startOffset": 705,
+                        "startOffset": 710,
                         "endColumn": 56,
-                        "endOffset": 760
+                        "endOffset": 765
                     }
                 }
             }

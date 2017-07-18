@@ -1,38 +1,38 @@
 [
     {
-        "merged": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
-        "source": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\layout\\menu.xml"
+        "merged": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
-        "source": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\layout\\test.xml"
+        "merged": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\layout\\menu.xml"
     },
     {
-        "merged": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
-        "source": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\layout\\list_row.xml"
+        "merged": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\highscoreform.xml",
+        "source": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\layout\\highscoreform.xml"
     },
     {
-        "merged": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\runnershigh.xml",
-        "source": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\layout\\runnershigh.xml"
+        "merged": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_single_row.xml",
+        "source": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\layout\\list_single_row.xml"
     },
     {
-        "merged": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info.xml",
-        "source": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\layout\\info.xml"
+        "merged": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\info.xml",
+        "source": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\layout\\info.xml"
     },
     {
-        "merged": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\highscoreform.xml",
-        "source": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\layout\\highscoreform.xml"
+        "merged": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\highscore.xml",
+        "source": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\layout\\highscore.xml"
     },
     {
-        "merged": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\runnershigh.xml",
+        "source": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\layout\\runnershigh.xml"
     },
     {
-        "merged": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\highscore.xml",
-        "source": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\layout\\highscore.xml"
+        "merged": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\layout\\test.xml"
     },
     {
-        "merged": "D:\\WorkSpace\\github\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_single_row.xml",
-        "source": "D:\\WorkSpace\\github\\RunnersHigh\\app\\src\\main\\res\\layout\\list_single_row.xml"
+        "merged": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "D:\\WorkSpace\\android_studio\\RunnersHigh\\app\\src\\main\\res\\layout\\list_row.xml"
     }
 ]
